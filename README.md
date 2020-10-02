@@ -1,1 +1,1 @@
-# learn-java-basic
+# java-fundamental
