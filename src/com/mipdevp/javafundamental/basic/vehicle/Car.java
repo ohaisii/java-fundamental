@@ -1,2 +1,4 @@
-package com.mipdevp.javafundamental.basic.vehicle;public class Car {
+package com.mipdevp.javafundamental.basic.vehicle;
+
+public class Car {
 }
