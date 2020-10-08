@@ -50,7 +50,7 @@ System.out.println(result);
 </pre>
 
 No | Nama | Keterangan
------------- | -------------
+----- | ------------ | ---------------------------------------------
 1 | length() | Buat cari panjang karakter
 2 | charAt(int index) | Buat mengambil sebuah karakter
 3 | format(String format, Object… args) | Format string
