@@ -20,4 +20,4 @@
 <pre>
 User user = new User();
 </pre>
-Dengan begitu kita bisa mengakses semua atribut dan fungsi yang ada pada kelas User menggunakan variabel user.
+<p>Dengan begitu kita bisa mengakses semua atribut dan fungsi yang ada pada kelas User menggunakan variabel user.</p>
