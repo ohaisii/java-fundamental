@@ -17,7 +17,7 @@
 #### Tipe Data Reference
 <p>Tipe data reference merupakan sebuah tipe data yang merujuk ke sebuah objek atau instance dari sebuah class. Salah satu tipe data yang termasuk ke dalam tipe data reference adalah string. Tipe data string menunjuk ke instance dari class java.lang.String</p>
 <p>Selain itu, kita bisa membuat tipe data sendiri. Sebagai contoh, ketika kita memiliki sebuah kelas User, kita bisa membuat variabel baru dengan tipe data class User tersebut. Kita perlu membuat instance dari kelas tersebut:</p>
-```
+<pre>
 User user = new User();
-```
+</pre>
 <p>Dengan begitu kita bisa mengakses semua atribut dan fungsi yang ada pada kelas User menggunakan variabel user.</p>
