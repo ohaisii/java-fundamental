@@ -7,9 +7,7 @@ public class ifThenElseIfThenElse {
         int nilaiUjian = 80;
         char indexPrestasi;
 
-        if (nilaiUjian >= 90) {
-            indexPrestasi = 'A';
-        } else if (nilaiUjian >= 80) {
+        if (nilaiUjian >= 80) {
             indexPrestasi = 'B';
         } else if (nilaiUjian >= 70) {
             indexPrestasi = 'C';
@@ -20,6 +18,6 @@ public class ifThenElseIfThenElse {
         } else {
             indexPrestasi = 'F';
         }
-        System.out.println("Nilai ujian anda adalah " + indexPrestasi);
+        System.out.println("Nilai ujian anda adalah =" + indexPrestasi);
     }
 }

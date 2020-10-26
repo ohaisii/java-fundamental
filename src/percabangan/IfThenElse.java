@@ -7,9 +7,9 @@ public class IfThenElse {
         boolean isOn = false;
 
         if (isOn) {
-            System.out.println("Lampu hidup");
+            System.out.println("Lampu menyala");
         } else {
-            System.out.println("Lampu mati");
+            System.out.println("Lampu padam");
         }
     }
 }
