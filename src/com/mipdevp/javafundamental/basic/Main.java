@@ -10,8 +10,10 @@ import java.util.Date;
 
 public class Main {
 
+    //Type psvm and TAB to create above
     public static void main(String[] args) {
 
+        //Type sout and TAB to create above
         System.out.println("Hai!");
 
         Guitar.sound();
