@@ -10,6 +10,10 @@ public class Planet {
         this.mass = mass;
     }
 
+    public void print() {
+        System.out.println("Planet " + name + ", mass: " + mass);
+    }
+
     @Override
     public String toString() {
         return "Planet{" +
